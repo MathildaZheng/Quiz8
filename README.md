@@ -13,7 +13,7 @@ My goal is to incorporate pixel scrambling and color shifting into my projects, 
 
 To achieve a glitchy artistic aesthetic, I explored several creative coding examples that utilize pixel manipulation and visual distortion techniques.
 
-- Examples:
+- Examples: (click'</>'check the code)
   - 1."https://openprocessing.org/sketch/2136720"
   - 2."https://openprocessing.org/sketch/2242345"
   - 3."https://openprocessing.org/sketch/2325217"
