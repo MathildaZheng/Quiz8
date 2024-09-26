@@ -1,4 +1,4 @@
-# xzhe9204_9103_tut6
+# Quiz 8
 
 ## Part 1: Imaging Technique Inspiration
 
